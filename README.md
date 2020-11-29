@@ -1,6 +1,6 @@
 # MkUltra Israel
 
-Information and evidence of inhumen psychological experiments on psychiatric patients in Israel hospitals.
+Information and evidence of involuntary psychological experiments on psychiatric patients in hospitals and around the world.
 
 ## Files
 
