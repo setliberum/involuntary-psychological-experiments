@@ -1,4 +1,4 @@
-# Involuntary Ppsychological Experiments
+# Involuntary Psychological Experiments
 
 Information and evidence of involuntary psychological experiments on psychiatric patients in hospitals and around the world.
 
